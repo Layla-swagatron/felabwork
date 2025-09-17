@@ -1,0 +1,23 @@
+body {
+    font-family: 'calibri', sans-serif;
+    padding: 5%;
+    background-color: #f9fccc;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p {
+    font-size: small;
+}
+
+li {
+    padding: 0.5%;
+}
+
+footer {
+    font-size: smaller;
+    color: #cc6d66;
+}
